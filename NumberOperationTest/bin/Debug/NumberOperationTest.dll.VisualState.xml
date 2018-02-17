@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1003]D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperationTest\bin\Debug\NumberOperationTest.dll</TopNode>
+  <SelectedNode>[0-1003]D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperationTest\bin\Debug\NumberOperationTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1003]D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperationTest\bin\Debug\NumberOperationTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1004]NumberOperationTest" Expanded="true" />
+    <Node UniqueName="[0-1000]NumberOperationTest.NumberTest" Expanded="true" />
+  </Nodes>
+</VisualState>

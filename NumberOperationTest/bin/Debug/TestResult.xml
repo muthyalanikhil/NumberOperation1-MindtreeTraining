@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperationTest\bin\Debug\NumberOperationTest.dll" total="2" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-08-08" time="16:48:31">
+  <environment nunit-version="2.5.8.10295" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="Q:\NUnit258.New\bin\net-2.0" machine-name="G1C2ML14267" user="M1032434" user-domain="MINDTREE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperationTest\bin\Debug\NumberOperationTest.dll" executed="True" result="Success" success="True" time="0.109" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="NumberOperationTest" executed="True" result="Success" success="True" time="0.094" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="NumberTest" executed="True" result="Success" success="True" time="0.094" asserts="0">
+            <results>
+              <test-case name="NumberOperationTest.NumberTest.AddDigitsTest" executed="True" result="Success" success="True" time="0.047" asserts="1" />
+              <test-case name="NumberOperationTest.NumberTest.DivideDigitsTest" executed="True" result="Success" success="True" time="0.016" asserts="0" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

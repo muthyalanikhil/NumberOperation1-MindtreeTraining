@@ -1,0 +1,9 @@
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\NumberOperation.exe.config
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\NumberOperation.exe
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\NumberOperation.pdb
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\NumberOperationTest.dll
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\nunit.framework.dll
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\bin\Debug\NumberOperationTest.pdb
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\obj\Debug\NumberOperation.csprojResolveAssemblyReference.cache
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\obj\Debug\NumberOperation.exe
+D:\Practice\Assignment_6-8-15\NumberOperation\NumberOperation\obj\Debug\NumberOperation.pdb
